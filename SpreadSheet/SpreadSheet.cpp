@@ -113,6 +113,13 @@ void SpreadSheet::RemoveRow(int row) {
 			Cells[i][j] = newCells[i][j];
 		}
 	}
+	for (int i = 0; i < Row; i++)
+	{
+		delete[] newCells[i];
+		newCells[i] = nullptr;
+	}
+	delete[] newCells;
+	newCells = nullptr;
 }
 void SpreadSheet::AddColumn(int col) { 
 	int Tmp_Col = col + 1;
@@ -189,6 +196,13 @@ void SpreadSheet::RemoveColumn(int col) {
 			Cells[i][j] = newCells[i][j];
 		}
 	}
+	for (int i = 0; i < Row; i++)
+	{
+		delete[] newCells[i];
+		newCells[i] = nullptr;
+	}
+	delete[] newCells;
+	newCells = nullptr;
 }
 void SpreadSheet::SwapRows(int R1, int R2) { 
 	if ((R1 >= Row) || (R2 >= Row)) {
