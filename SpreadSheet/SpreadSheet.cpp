@@ -142,8 +142,9 @@ void SpreadSheet::AddColumn(int col) {
 			k++;
 		}
 	}
-	Col = Tmp_Col;
-	this->Cells.resize(Row, std::vector<Cell>(Col));
+	std::vector<std::vector<Cell>> V_Arr(Row, std::vector<Cell>(Col+1));
+	this->Cells = V_Arr;
+	Col++;
 	for (int i = 0; i < Row; ++i) {
 		for (int j = 0; j < Col; ++j) {
 			this->Cells[i][j].m_value = Tmp_Cells[i][j].m_value;
@@ -172,9 +173,10 @@ void SpreadSheet::RemoveColumn(int col) {
 			Tmp_Cells[i][index] = Cells[i][j];
 			index++;
 		}
-	}
+	}	
+	std::vector<std::vector<Cell>> V_Arr(Row, std::vector<Cell>(Col - 1));
+	Cells = V_Arr;
 	Col--;
-	Cells.resize(Row, std::vector<Cell>(Col));
 	for (int i = 0; i < Row; ++i) {
 		for (int j = 0; j < Col; ++j) {
 			this->Cells[i][j].m_value = Tmp_Cells[i][j].m_value;
