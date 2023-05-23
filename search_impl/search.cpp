@@ -145,7 +145,6 @@ std::string find_word(const std::string& word,std::ifstream& in) {
         std::string key_word;
         std::string file_name;
         int index = 0;
-        //std::vector<std::string> arr;
         for(; index < file_line.size(); ++index) {
             if(file_line[index] != ':' ) {
                 key_word.push_back(file_line[index]);
