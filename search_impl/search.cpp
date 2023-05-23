@@ -202,7 +202,6 @@ int main () {
     obj.create("lorem.txt");
     obj.word_isalpha();
     obj.text_normalise();
-    obj.print();
     same_word(of);
     of.close();
     std::string usr_input;
