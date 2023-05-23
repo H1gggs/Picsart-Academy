@@ -1,0 +1,826 @@
+in: 1.txt 2.txt 
+mathematic: 1.txt 2.txt 
+and: 1.txt 2.txt 
+computer: 1.txt 
+science: 1.txt 2.txt 
+an: 1.txt 
+algorithm: 1.txt 2.txt 
+lrm: 1.txt 
+listen: 1.txt 
+i: 1.txt 2.txt 
+a: 1.txt 2.txt 
+finite: 1.txt 
+sequence: 1.txt 
+of: 1.txt 2.txt 
+rigorou: 1.txt 
+instruction: 1.txt 
+typically: 1.txt 
+used: 1.txt 
+to: 1.txt 2.txt 
+solve: 1.txt 2.txt 
+a: 1.txt 2.txt 
+cla: 1.txt 
+of: 1.txt 2.txt 
+specific: 1.txt 
+problem: 1.txt 2.txt 
+or: 1.txt 2.txt 
+to: 1.txt 2.txt 
+perform: 1.txt 
+a: 1.txt 2.txt 
+computation: 1.txt 2.txt 
+algorithm: 1.txt 2.txt 
+are: 1.txt 2.txt 
+used: 1.txt 
+a: 1.txt 2.txt 
+specification: 1.txt 
+for: 1.txt 2.txt 
+performing: 1.txt 
+calculation: 1.txt 
+and: 1.txt 2.txt 
+data: 1.txt 
+processing: 1.txt 
+more: 1.txt 
+advanced: 1.txt 
+algorithm: 1.txt 2.txt 
+can: 1.txt 
+use: 1.txt 2.txt 
+conditional: 1.txt 
+to: 1.txt 2.txt 
+divert: 1.txt 
+the: 1.txt 2.txt 
+code: 1.txt 
+execution: 1.txt 
+through: 1.txt 
+variou: 1.txt 
+route: 1.txt 
+referred: 1.txt 
+to: 1.txt 2.txt 
+a: 1.txt 2.txt 
+automated: 1.txt 
+decisionmaking: 1.txt 
+and: 1.txt 2.txt 
+deduce: 1.txt 
+valid: 1.txt 
+inference: 1.txt 
+referred: 1.txt 
+to: 1.txt 2.txt 
+a: 1.txt 2.txt 
+automated: 1.txt 
+reasoning: 1.txt 
+achieving: 1.txt 
+automation: 1.txt 
+eventually: 1.txt 
+using: 1.txt 
+human: 1.txt 
+characteristic: 1.txt 
+a: 1.txt 2.txt 
+descriptor: 1.txt 
+of: 1.txt 2.txt 
+machine: 1.txt 2.txt 
+in: 1.txt 2.txt 
+metaphorical: 1.txt 
+way: 1.txt 2.txt 
+wa: 1.txt 2.txt 
+already: 1.txt 
+practiced: 1.txt 
+by: 1.txt 2.txt 
+alan: 1.txt 2.txt 
+turing: 1.txt 2.txt 
+with: 1.txt 2.txt 
+term: 1.txt 2.txt 
+such: 1.txt 
+a: 1.txt 2.txt 
+memory: 1.txt 
+search: 1.txt 
+and: 1.txt 2.txt 
+stimulu: 1.txt 
+in: 1.txt 2.txt 
+contrast: 1.txt 2.txt 
+a: 1.txt 2.txt 
+heuristic: 1.txt 
+i: 1.txt 2.txt 
+an: 1.txt 
+approach: 1.txt 
+to: 1.txt 2.txt 
+problem: 1.txt 2.txt 
+solving: 1.txt 2.txt 
+that: 1.txt 
+may: 1.txt 2.txt 
+not: 1.txt 
+be: 1.txt 2.txt 
+fully: 1.txt 
+specified: 1.txt 
+or: 1.txt 2.txt 
+may: 1.txt 2.txt 
+not: 1.txt 
+guarantee: 1.txt 
+correct: 1.txt 
+or: 1.txt 2.txt 
+optimal: 1.txt 
+result: 1.txt 
+especially: 1.txt 
+in: 1.txt 2.txt 
+problem: 1.txt 2.txt 
+domain: 1.txt 
+where: 1.txt 
+there: 1.txt 
+i: 1.txt 2.txt 
+no: 1.txt 
+welldefined: 1.txt 
+correct: 1.txt 
+or: 1.txt 2.txt 
+optimal: 1.txt 
+result: 1.txt 
+a: 1.txt 2.txt 
+an: 1.txt 
+effective: 1.txt 2.txt 
+method: 1.txt 2.txt 
+an: 1.txt 
+algorithm: 1.txt 2.txt 
+can: 1.txt 
+be: 1.txt 2.txt 
+expressed: 1.txt 
+within: 1.txt 
+a: 1.txt 2.txt 
+finite: 1.txt 
+amount: 1.txt 
+of: 1.txt 2.txt 
+space: 1.txt 
+and: 1.txt 2.txt 
+time: 1.txt 2.txt 
+and: 1.txt 2.txt 
+in: 1.txt 2.txt 
+a: 1.txt 2.txt 
+welldefined: 1.txt 
+formal: 1.txt 
+language: 1.txt 
+for: 1.txt 2.txt 
+calculating: 1.txt 2.txt 
+a: 1.txt 2.txt 
+function: 1.txt 2.txt 
+starting: 1.txt 
+from: 1.txt 
+an: 1.txt 
+initial: 1.txt 
+state: 1.txt 
+and: 1.txt 2.txt 
+initial: 1.txt 
+input: 1.txt 
+perhap: 1.txt 
+empty: 1.txt 
+the: 1.txt 2.txt 
+instruction: 1.txt 
+describe: 1.txt 
+a: 1.txt 2.txt 
+computation: 1.txt 2.txt 
+that: 1.txt 
+when: 1.txt 
+executed: 1.txt 
+proceed: 1.txt 
+through: 1.txt 
+a: 1.txt 2.txt 
+finite: 1.txt 
+number: 1.txt 2.txt 
+of: 1.txt 2.txt 
+welldefined: 1.txt 
+successive: 1.txt 
+state: 1.txt 
+eventually: 1.txt 
+producing: 1.txt 
+output: 1.txt 
+and: 1.txt 2.txt 
+terminating: 1.txt 
+at: 1.txt 2.txt 
+a: 1.txt 2.txt 
+final: 1.txt 
+ending: 1.txt 
+state: 1.txt 
+the: 1.txt 2.txt 
+transition: 1.txt 
+from: 1.txt 
+one: 1.txt 
+state: 1.txt 
+to: 1.txt 2.txt 
+the: 1.txt 2.txt 
+next: 1.txt 
+i: 1.txt 2.txt 
+not: 1.txt 
+necessarily: 1.txt 
+deterministic: 1.txt 
+some: 1.txt 2.txt 
+algorithm: 1.txt 2.txt 
+known: 1.txt 
+a: 1.txt 2.txt 
+randomized: 1.txt 
+algorithm: 1.txt 2.txt 
+incorporate: 1.txt 
+random: 1.txt 
+input: 1.txt 
+ancient: 2.txt
+
+since: 2.txt
+antiquity: 2.txt
+stepbystep: 2.txt
+procedure: 2.txt
+
+
+mathematical: 2.txt
+
+have: 2.txt
+been: 2.txt
+attested: 2.txt
+thi: 2.txt
+include: 2.txt
+babylonian: 2.txt
+
+around: 2.txt
+2500: 2.txt
+bc: 2.txt
+egyptian: 2.txt
+
+around: 2.txt
+1550: 2.txt
+bc: 2.txt
+indian: 2.txt
+
+around: 2.txt
+800: 2.txt
+bc: 2.txt
+
+later: 2.txt
+eg: 2.txt
+shulba: 2.txt
+sutra: 2.txt
+kerala: 2.txt
+school: 2.txt
+
+brhmasphuasiddhnta: 2.txt
+greek: 2.txt
+
+around: 2.txt
+240: 2.txt
+bc: 2.txt
+eg: 2.txt
+sieve: 2.txt
+
+eratosthene: 2.txt
+
+euclidean: 2.txt
+
+
+arabic: 2.txt
+
+th: 2.txt
+century: 2.txt
+eg: 2.txt
+cryptographic: 2.txt
+
+
+codebreaking: 2.txt
+based: 2.txt
+on: 2.txt
+frequency: 2.txt
+analysi: 2.txt
+alkhwarizmi: 2.txt
+
+
+
+
+around: 2.txt
+825,: 2.txt
+muhammad: 2.txt
+ibn: 2.txt
+musa: 2.txt
+alkhwarizmi: 2.txt
+wrote: 2.txt
+kitb: 2.txt
+alisb: 2.txt
+alhind: 2.txt
+book: 2.txt
+
+indian: 2.txt
+
+
+kitab: 2.txt
+aljam: 2.txt
+waltafriq: 2.txt
+alisb: 2.txt
+alhind: 2.txt
+addition: 2.txt
+
+subtraction: 2.txt
+
+indian: 2.txt
+arithmetic: 2.txt
+both: 2.txt
+
+these: 2.txt
+text: 2.txt
+
+lost: 2.txt
+
+
+original: 2.txt
+arabic: 2.txt
+
+thi: 2.txt
+
+however: 2.txt
+hi: 2.txt
+other: 2.txt
+book: 2.txt
+on: 2.txt
+algebra: 2.txt
+remain: 2.txt
+
+
+early: 2.txt
+th: 2.txt
+century: 2.txt
+latin: 2.txt
+translation: 2.txt
+
+said: 2.txt
+alkhwarizmi: 2.txt
+text: 2.txt
+involving: 2.txt
+
+hinduarabic: 2.txt
+numeral: 2.txt
+system: 2.txt
+
+arithmetic: 2.txt
+appeared: 2.txt
+liber: 2.txt
+alghoarismi: 2.txt
+de: 2.txt
+practica: 2.txt
+arismetrice: 2.txt
+attributed: 2.txt
+
+john: 2.txt
+
+seville: 2.txt
+
+liber: 2.txt
+algorismi: 2.txt
+de: 2.txt
+numero: 2.txt
+indorum: 2.txt
+attributed: 2.txt
+
+adelard: 2.txt
+
+bath: 2.txt
+hereby: 2.txt
+alghoarismi: 2.txt
+
+algorismi: 2.txt
+
+
+latinization: 2.txt
+
+alkhwarizmi: 2.txt
+name: 2.txt
+
+text: 2.txt
+start: 2.txt
+
+
+phrase: 2.txt
+dixit: 2.txt
+algorismi: 2.txt
+thu: 2.txt
+spoke: 2.txt
+alkhwarizmi: 2.txt
+
+1240,: 2.txt
+alexander: 2.txt
+
+villedieu: 2.txt
+write: 2.txt
+
+latin: 2.txt
+text: 2.txt
+titled: 2.txt
+carmen: 2.txt
+de: 2.txt
+algorismo: 2.txt
+it: 2.txt
+begin: 2.txt
+
+haec: 2.txt
+algorismu: 2.txt
+ar: 2.txt
+praesen: 2.txt
+dicitur: 2.txt
+
+qua: 2.txt
+/: 2.txt
+talibu: 2.txt
+indorum: 2.txt
+fruimur: 2.txt
+bi: 2.txt
+quinque: 2.txt
+figuri: 2.txt
+which: 2.txt
+translate: 2.txt
+
+algorism: 2.txt
+
+
+art: 2.txt
+
+which: 2.txt
+
+present: 2.txt
+we: 2.txt
+
+those: 2.txt
+indian: 2.txt
+figure: 2.txt
+which: 2.txt
+
+two: 2.txt
+
+five: 2.txt
+
+poem: 2.txt
+
+
+few: 2.txt
+hundred: 2.txt
+line: 2.txt
+long: 2.txt
+
+summarize: 2.txt
+
+art: 2.txt
+
+
+
+
+new: 2.txt
+styled: 2.txt
+indian: 2.txt
+dice: 2.txt
+tali: 2.txt
+indorum: 2.txt
+
+hindu: 2.txt
+numeral: 2.txt
+english: 2.txt
+evolution: 2.txt
+
+
+word: 2.txt
+around: 2.txt
+1230,: 2.txt
+
+english: 2.txt
+word: 2.txt
+algorism: 2.txt
+
+attested: 2.txt
+
+then: 2.txt
+
+chaucer: 2.txt
+
+1391.: 2.txt
+english: 2.txt
+adopted: 2.txt
+
+french: 2.txt
+
+
+
+th: 2.txt
+century: 2.txt
+under: 2.txt
+
+influence: 2.txt
+
+
+greek: 2.txt
+word: 2.txt
+ἀριθμός: 2.txt
+arithmo: 2.txt
+
+cf: 2.txt
+arithmetic: 2.txt
+
+latin: 2.txt
+word: 2.txt
+
+altered: 2.txt
+
+algorithmu: 2.txt
+
+1656,: 2.txt
+
+
+english: 2.txt
+dictionary: 2.txt
+glossographia: 2.txt
+it: 2.txt
+say: 2.txt
+algorism: 2.txt
+latin: 2.txt
+algorismu: 2.txt
+
+art: 2.txt
+
+
+
+cypher: 2.txt
+
+
+numbering: 2.txt
+
+cypher: 2.txt
+skill: 2.txt
+
+accounting: 2.txt
+augrime: 2.txt
+latin: 2.txt
+algorithmu: 2.txt
+skil: 2.txt
+
+accounting: 2.txt
+
+numbring: 2.txt
+
+1658,: 2.txt
+
+
+first: 2.txt
+edition: 2.txt
+
+
+new: 2.txt
+world: 2.txt
+
+english: 2.txt
+word: 2.txt
+it: 2.txt
+say: 2.txt
+algorithme: 2.txt
+
+word: 2.txt
+compounded: 2.txt
+
+arabick: 2.txt
+
+spanish: 2.txt
+
+art: 2.txt
+
+reckoning: 2.txt
+
+cypher: 2.txt
+
+1706,: 2.txt
+
+
+sixth: 2.txt
+edition: 2.txt
+
+
+new: 2.txt
+world: 2.txt
+
+english: 2.txt
+word: 2.txt
+it: 2.txt
+say: 2.txt
+
+
+art: 2.txt
+
+computing: 2.txt
+
+reckoning: 2.txt
+
+
+which: 2.txt
+contain: 2.txt
+
+five: 2.txt
+principle: 2.txt
+rule: 2.txt
+
+arithmetick: 2.txt
+viz: 2.txt
+numeration: 2.txt
+addition: 2.txt
+subtraction: 2.txt
+multiplication: 2.txt
+
+division: 2.txt
+
+which: 2.txt
+
+
+added: 2.txt
+extraction: 2.txt
+
+root: 2.txt
+it: 2.txt
+
+also: 2.txt
+calld: 2.txt
+logistica: 2.txt
+numerali: 2.txt
+algorism: 2.txt
+
+practical: 2.txt
+operation: 2.txt
+
+
+several: 2.txt
+part: 2.txt
+
+speciou: 2.txt
+arithmetick: 2.txt
+
+algebra: 2.txt
+sometime: 2.txt
+it: 2.txt
+
+taken: 2.txt
+
+
+practice: 2.txt
+
+common: 2.txt
+arithmetick: 2.txt
+
+
+ten: 2.txt
+numeral: 2.txt
+figure: 2.txt
+
+1751,: 2.txt
+
+
+young: 2.txt
+algebraist: 2.txt
+companion: 2.txt
+daniel: 2.txt
+fenning: 2.txt
+
+
+
+algorism: 2.txt
+
+
+
+follow: 2.txt
+
+signifie: 2.txt
+
+first: 2.txt
+principle: 2.txt
+
+algorism: 2.txt
+
+practical: 2.txt
+part: 2.txt
+
+knowing: 2.txt
+how: 2.txt
+
+put: 2.txt
+
+
+
+practice: 2.txt
+since: 2.txt
+
+least: 2.txt
+1811,: 2.txt
+
+
+
+
+attested: 2.txt
+
+mean: 2.txt
+
+stepbystep: 2.txt
+procedure: 2.txt
+
+english: 2.txt
+
+1842,: 2.txt
+
+
+dictionary: 2.txt
+
+
+literature: 2.txt
+
+art: 2.txt
+it: 2.txt
+say: 2.txt
+
+signifie: 2.txt
+
+art: 2.txt
+
+computing: 2.txt
+
+reference: 2.txt
+
+
+particular: 2.txt
+subject: 2.txt
+
+
+
+particular: 2.txt
+
+
+
+
+
+
+
+
+
+
+differential: 2.txt
+calculu: 2.txt
+
+usage: 2.txt
+
+1928,: 2.txt
+
+partial: 2.txt
+formalization: 2.txt
+
+
+modern: 2.txt
+concept: 2.txt
+
+
+began: 2.txt
+
+attempt: 2.txt
+
+
+
+entscheidungsproblem: 2.txt
+decision: 2.txt
+
+posed: 2.txt
+
+david: 2.txt
+hilbert: 2.txt
+later: 2.txt
+formalization: 2.txt
+were: 2.txt
+framed: 2.txt
+
+attempt: 2.txt
+
+define: 2.txt
+
+calculability: 2.txt
+
+
+
+those: 2.txt
+formalization: 2.txt
+included: 2.txt
+
+gdelherbrandkleene: 2.txt
+recursive: 2.txt
+
+
+1930,: 2.txt
+1934: 2.txt
+
+1935,: 2.txt
+alonzo: 2.txt
+church: 2.txt
+lambda: 2.txt
+calculu: 2.txt
+
+1936,: 2.txt
+emil: 2.txt
+post: 2.txt
+formulation: 2.txt
+1: 2.txt
+
+1936,: 2.txt
+
+
+
+
+
+
+1936–37: 2.txt
+
+1939.: 2.txt
